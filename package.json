@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "html-entities": "^1.2.0"
+  },
+  "name": "javascript_decode",
+  "version": "1.0.0",
+  "main": "javascript_decode.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
